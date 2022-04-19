@@ -4,17 +4,17 @@ Multiplane microscopy is a technique to obtain 3D information by measuring multi
 Using a camera set-up as shown, with the horizontal line as the point of focus (note that distances are in metres because they are inconsequential in blender):
 
 <p float="left">
-  <img src="https://github.com/leh115/Sharpness-of-beads/blob/master/11%20top%20view.png" height="500" width="30%" />
-  <img src="https://github.com/leh115/Sharpness-of-beads/blob/master/12%20top%20view.png" height="500" width="30%" /> 
-  <img src="https://github.com/leh115/Sharpness-of-beads/blob/master/13%20top%20view.png" height="500" width="30%" />
+  <img src="https://github.com/H00267382/Multiplane-Microscopy/blob/main/11%20top%20view.png" height="500" width="30%" />
+  <img src="https://github.com/H00267382/Multiplane-Microscopy/blob/main/12%20top%20view.png" height="500" width="30%" /> 
+  <img src="https://github.com/H00267382/Multiplane-Microscopy/blob/main/13%20top%20view.png" height="500" width="30%" />
 </p>
 
 Which produces Input images:
 
 <p float="left">
-  <img src="https://github.com/leh115/Sharpness-of-beads/blob/master/11.0.png" width="30%" />
-  <img src="https://github.com/leh115/Sharpness-of-beads/blob/master/12.0.png" width="30%" /> 
-  <img src="https://github.com/leh115/Sharpness-of-beads/blob/master/13.0.png" width="30%" />
+  <img src="https://github.com/H00267382/Multiplane-Microscopy/blob/main/11.0-min.png" width="30%" />
+  <img src="https://github.com/H00267382/Multiplane-Microscopy/blob/main/12.0-min.png" width="30%" /> 
+  <img src="https://github.com/H00267382/Multiplane-Microscopy/blob/main/13.0-min.png" width="30%" />
 </p>
 
 The python file provided as **Sharpness.py** calculates the sharpness of each image and from that it predicts the location of the bead.
