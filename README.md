@@ -9,7 +9,7 @@ Using a camera set-up as shown, with the horizontal line as the point of focus (
   <img src="https://github.com/H00267382/Multiplane-Microscopy/blob/main/13%20top%20view.png" height="500" width="30%" />
 </p>
 
-Which produces Input images:
+Which produces Input images (its difficult to tell but the central image is sharpest):
 
 <p float="left">
   <img src="https://github.com/H00267382/Multiplane-Microscopy/blob/main/11.0-min.png" width="30%" />
@@ -34,7 +34,7 @@ And produces a graph:
 ![BeadSharpness](https://user-images.githubusercontent.com/66416355/164016315-c415fbfc-28e3-4c68-9687-c34b44b6abc2.png)
 
 
-A visual of undersampling below shows why the function is inaccurate with only 9 planes.
+A visual of undersampling below shows why the function is inaccurate with only 9 planes. Orange represents the undersampled function.
 
 The first graph shows sampling of 12 planes, the second shows sampling of 8 planes and the final graph shows sampling 6 planes.
 
